@@ -58,3 +58,6 @@ Which product category generates the highest sales?
 ## Key Takeaway
 
 This analysis shows that Technology is the highest-performing product category, followed by Office Supplies and Furniture. The dashboard helps decision-makers quickly identify high-performing categories and areas that may require further business investigation.
+
+## Author
+-  Mthobisi Mhoni
