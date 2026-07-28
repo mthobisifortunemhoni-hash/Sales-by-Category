@@ -9,7 +9,7 @@ Analyze sales performance across product categories using Microsoft Power BI and
 
 ## Visualization
 
-![Sales-by-Category]()
+![Sales-by-Category](https://github.com/mthobisifortunemhoni-hash/Sales-by-Category/blob/730388f0f16de009de05c7bf664b30e0c09280cf/Sales-by-Category.png)
 
 
 ## Business Question
